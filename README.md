@@ -1,8 +1,10 @@
-<h1 align='center'> Hi there 👋 I'm Ezequiel 👨‍💻</h1>h1>
+<h1 align='center'> 
+  Hi there 👋 I'm Ezequiel 👨‍💻
+</h1>
 -----
-<p align=''center>
+<p align='center'>
 A developer from Brazil learning every day.
-</p>p
+</p>
 <!--
 **ezequiel-lindoso/ezequiel-lindoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
