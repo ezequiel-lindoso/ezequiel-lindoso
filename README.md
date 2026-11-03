@@ -72,3 +72,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##relatório:
+
+Ao olhar os perfis de referência no GitHub, percebi que os melhores devs mantêm tudo muito organizado, direto ao ponto e fácil de entender. O que mais me chamou a atenção no Profile README foi como eles explicam rapidamente com o que trabalham, usando ícones e cartões de estatísticas de forma simples, sem deixar a página poluída ou bagunçada. Nos projetos que deixam em destaque, notei que todos têm nomes bem padronizados e trazem um README.md muito bem feito, com imagens, diagramas explicando o projeto e um passo a passo claro de como baixar e rodar o código na máquina. Além disso, repará que todos os repositórios sérios têm arquivos de licença (como a MIT) e o .gitignore configurado certinho para não mandar arquivos desnecessários pro GitHub. Me espelhando nessas boas práticas, resolvi dar uma geral no meu próprio perfil: organizei meus projetos principais na tela inicial, arrumei as explicações de como rodar cada um deles e deixei os repositórios mais limpos e bem documentados. Essa mudança me ajudou a deixar meu GitHub muito mais profissional e pronto para mostrar o que estou aprendendo na prática.
