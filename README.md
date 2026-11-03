@@ -5,6 +5,8 @@
 <p align='center'>
 A developer from Brazil learning every day.
 </p>
+
+Desenvolvedor em formação | Explorando o mundo da tecnologia
 <!--
 **ezequiel-lindoso/ezequiel-lindoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
